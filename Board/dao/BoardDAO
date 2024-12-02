@@ -1,6 +1,6 @@
 //BoardDAO.java
 
-package com.example.demo.dao;
+package dao;
 import com.example.demo.domain.BoardDTO;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
