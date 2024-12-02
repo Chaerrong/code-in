@@ -1,0 +1,8 @@
+CREATE TABLE BOARD (
+    num BIGINT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255),
+    writerDate DATE,
+    id VARCHAR(255),
+    pw VARCHAR(255),
+    context VARCHAR(255)
+);
