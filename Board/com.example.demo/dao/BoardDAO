@@ -1,7 +1,7 @@
 //BoardDAO.java
 
-package dao;
-import dto.BoardDTO;
+package com.example.demo.dao;
+import com.example.demo.dto.BoardDTO;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Timestamp;
